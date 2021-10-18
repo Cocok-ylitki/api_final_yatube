@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 # Учебный проект API для Yatube итоговый
 
 Написан API для проекта Yatube. Тестировал возможности Django REST Framework
