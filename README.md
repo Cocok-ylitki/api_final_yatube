@@ -12,7 +12,7 @@
 ## Установка 
 Клонируем репозиторий на локальную машину:
 
-```$ git clone https://github.com/netshy/api_final_yatube.git```
+```$ git clone https://github.com/Cocok-ylitki/api_final_yatube.git```
 
  Создаем виртуальное окружение:
  
